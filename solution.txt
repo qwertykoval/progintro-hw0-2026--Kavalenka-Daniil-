@@ -11,3 +11,4 @@ you_re_on_the_right_path
 Angy
 Peta
 which_command_is_the_best
+descriptive_git_commit_messages_are_great
