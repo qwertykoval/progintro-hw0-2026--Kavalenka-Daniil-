@@ -13,3 +13,4 @@ Peta
 which_command_is_the_best
 descriptive_git_commit_messages_are_great
 copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
+the_exit_code_is_42
